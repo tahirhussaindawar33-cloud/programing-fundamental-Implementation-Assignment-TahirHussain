@@ -1,0 +1,7 @@
+# Program 22 — Student information input
+
+name = input("Name: ")
+age = input("Age: ")
+height = input("Height: ")
+gender = input("Gender: ")
+print(name, age, height, gender)

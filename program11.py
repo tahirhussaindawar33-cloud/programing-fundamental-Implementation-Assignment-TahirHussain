@@ -1,0 +1,6 @@
+# Program 11 — Average of two integers
+
+a = int(input("a: "))
+b = int(input("b: "))
+avg = (a + b) / 2
+print("Average =", avg)
